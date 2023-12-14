@@ -1,0 +1,3 @@
+D:/Tugas dan Project/Project/CPP/manajemen-keuangan/cmake-build-debug/CMakeFiles/manajemen_keuangan.dir
+D:/Tugas dan Project/Project/CPP/manajemen-keuangan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Tugas dan Project/Project/CPP/manajemen-keuangan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
